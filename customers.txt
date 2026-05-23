@@ -1,0 +1,3 @@
+JohnSmith,john,900
+Mark,mark,0
+Corn,corn,990
